@@ -13,11 +13,10 @@ Newbie challenges:
 
   FAQ accordion: BG good, main card needs to be taller/wider with drop shadow, 
                  HR needs to be lighter, font-size larger lighter font-weight, heading sections could
-                 be taller. fix attribute name in details errors
-                  
-
-
-  Social links profile:
+                 be taller. fix attribute name in details errors, FAQ logo/h1 needs to be larger. 
+                
+  Social links profile: BG good, MC needs to be taller, width good, prof picture needs to be a little 
+                        smaller, 
   Product preview card component:
   NFT preview card component:
   Interactive rating component:
