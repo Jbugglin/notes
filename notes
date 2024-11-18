@@ -6,9 +6,17 @@ Newbie challenges:
                   size, and box shadow needs to be better. Social media icons need to be larger (prob
                   by 50% or 2x), little bit higher and much more to the left. 
 
+  Order summary component:  BG good, main card needs to be taller, font needs to be a little bit biger, 
+                            align the annual plan and pricing to the left, that section needs to be 
+                            taller, button needs to be a little taller, drop shadow under button, 
+                            font size needs adjusted, main card width needs widened. 
 
-  Order summary component:
-  FAQ accordion:
+  FAQ accordion: BG good, main card needs to be taller/wider with drop shadow, 
+                 HR needs to be lighter, font-size larger lighter font-weight, heading sections could
+                 be taller. fix attribute name in details errors
+                  
+
+
   Social links profile:
   Product preview card component:
   NFT preview card component:
