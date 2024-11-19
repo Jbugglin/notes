@@ -1,24 +1,63 @@
 Newbie challenges:
-  Huddle landing: BG good, logo needs to be a little larger, logo needs to be a little lower 
-                  and to the left, img needs to be a little larger, lower and to the right. H1 needs
-                  correct font, needs to be higher and weight bumped up. P needs to be higher and width 
-                  a bit wider to match the same # of lines. Button needs higher, corrected font, font
-                  size, and box shadow needs to be better. Social media icons need to be larger (prob
-                  by 50% or 2x), little bit higher and much more to the left. 
+  Huddle landing: BG good, logo needs to be a little larger, 
+                  logo needs to be a little lower and to the left, 
+                  img needs to be a little larger, lower and to the right. 
+                  H1 needs correct font, needs to be higher and weight bumped up. 
+                  P needs to be higher and width a bit wider to match the same # of lines. 
+                  Button needs higher, corrected font, font size, and box shadow needs to be better. 
+                  Social media icons need to be larger (prob by 50% or 2x), little bit higher and much more to the left. 
 
-  Order summary component:  BG good, main card needs to be taller, font needs to be a little bit biger, 
-                            align the annual plan and pricing to the left, that section needs to be 
-                            taller, button needs to be a little taller, drop shadow under button, 
-                            font size needs adjusted, main card width needs widened. 
+  Order summary component:  BG good, main card needs to be taller. 
+                            Font needs to be a little bit biger. 
+                            Align the annual plan and pricing to the left, that section needs to be taller. 
+                            Button needs to be a little taller.
+                            Drop shadow under button.
+                            Font size needs adjusted. 
+                            Main card width needs widened. 
 
-  FAQ accordion: BG good, main card needs to be taller/wider with drop shadow, 
-                 HR needs to be lighter, font-size larger lighter font-weight, heading sections could
-                 be taller. fix attribute name in details errors, FAQ logo/h1 needs to be larger. 
+  FAQ accordion: BG good, main card needs to be taller/wider with drop shadow. 
+                 HR needs to be lighter.
+                 Font-size larger lighter font-weight. 
+                 Heading sections could be taller. 
+                 Fix attribute name in details errors.
+                 FAQ logo/h1 needs to be larger. 
                 
-  Social links profile: BG good, MC needs to be taller, width good, prof picture needs to be a little 
-                        smaller, 
-  Product preview card component:
-  NFT preview card component:
-  Interactive rating component:
-  Profile card component:
-  QR code component:
+  Social links profile: BG good, MC needs to be taller, width good.
+                        Prof picture needs to be a little smaller.
+                        H1 needs to be slightly larger.
+                        Location slightly larger and desc. 
+                        Links color needs to be lighter. 
+                        This was the closest one of the few so far. 
+
+  Product preview card component: Almost pixel perfect. 
+                                  MC needs to be slightly taller and wider. 
+                                  Most font sizes are correct, adjust the old price (needs larger). 
+                                  add to cart needs adjusted smaller.
+
+  NFT preview card component: MC needs to be taller and slightly wider. 
+                              Description font size needs to be larger.
+                              Equilibrium logo and eth price needs to be aligned and weighted heavier.
+                              Margin bottom of author needs larger.
+                              Clock logo needs aligned. 
+
+  Interactive rating component: MC needs to be wider and taller.
+                                More margin around the star logo.
+                                Number ratings needs to be lighter.
+                                Submit button color needs to match background.
+                                Line height needs adjusted.
+                                P needs adjusted to match the desktop view. 
+
+  Profile card component: Almost pixel perfect, drop shadow needs to be bigger.
+                          HR needs to be thinner and lighter color.
+                          Name font weight needs to be smaller.
+                          MC needs to be slightly taller, width perfect.
+                          Stats at bottom too heavily weighted, as is sub titles. 
+                          BG circles (TL) needs moved right, (BR) needs moved up slightly.
+
+  QR code component: BG needs to expand to full screen dvh.
+                     Drop shadow on bottom only.
+                     Width looks good.
+                     MC border around img needs to be thinner slightly.
+                     P font color needs to be darker.
+                     
+                     
